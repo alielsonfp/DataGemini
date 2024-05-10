@@ -70,3 +70,11 @@ Me faça um grafico de barras interativo e colorido em python com esses dados, u
 
 ## Saída:
 
+![GRAFICO1](https://github.com/alielsonfp/DataGemini/blob/main/assets/Grafico%201.png).
+
+## Terceira Entrada:
+
+Me faça um grafico de pizza interativo e colorido em python com esses dados, utilizando plotly.graph_objs,sem comentarios, faça uma legenda.
+
+## Saída:
+![GRAFICO2](https://github.com/alielsonfp/DataGemini/blob/main/assets/Grafico%202.png).
