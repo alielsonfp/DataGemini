@@ -22,10 +22,10 @@ Vamos utilizar esse CSV como exemplo para mostrar as utilidades do DataGemini
 | Suzano Papel e Celulose| $15                                        |
 | Magazine Luiza         | $20                                        |
 
-### Entrada:
+## Entrada:
 Faça uma análise descritiva sobre esse dataset
 
-### Saída:
+## Saída:
 
 ## Análise Descritiva do Dataset de Valor de Mercado das Empresas Brasileiras
 
