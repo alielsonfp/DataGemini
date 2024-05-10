@@ -1,5 +1,4 @@
- ![mindjourneyimage]https://github.com/alielsonfp/DataGemini/blob/main/assets/Capa.png
-
+![Mind Journey](https://github.com/alielsonfp/DataGemini/blob/main/assets/Capa.png)
 
 
 # DataGemini
