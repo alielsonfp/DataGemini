@@ -22,7 +22,7 @@ Vamos utilizar esse CSV como exemplo para mostrar as utilidades do DataGemini co
 | Suzano Papel e Celulose| $15                                        |
 | Magazine Luiza         | $20                                        |
 
-## Entrada:
+## Primeira Entrada:
 Faça uma análise descritiva sobre esse dataset
 
 ## Saída:
