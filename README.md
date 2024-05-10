@@ -83,6 +83,8 @@ Me faça um grafico de pizza interativo e colorido em python com esses dados, ut
 
 Esta é apenas a primeira versão do projeto, destinada a demonstrar a capacidade de utilizar a função exec() com a capacidade generativa de código do GEMINI. As possibilidades são infinitas em todas as áreas e estou animado para implementar uma interface para os usuários em versões futuras. Por enquanto, esta é uma versão inicial com apenas o código puro para fins de teste. Agradeço por ler até aqui e não hesite em me seguir ou entrar em contato para esclarecer qualquer dúvida!
 
+Por favor, note que é necessário incluir a solicitação para gerar os gráficos sem comentários nos inputs, pois isso pode causar problemas na execução da função. Até o momento, não consegui automatizar para que a IA nunca gere comentários, mesmo utilizando few shots de exemplo.
+
 ### Contato
 
 Para mais informações, você pode me encontrar em:
@@ -90,4 +92,3 @@ Para mais informações, você pode me encontrar em:
 - GitHub: [alielsonfp](https://github.com/alielsonfp)
 - Instagram: [delirium_psy](https://www.instagram.com/delirium_psy/)
 - LinkedIn: [Alielson Ferreira](https://www.linkedin.com/in/alielsonferreira/)
-
