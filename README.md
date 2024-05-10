@@ -64,3 +64,9 @@ Para uma melhor visualização, poderíamos criar gráficos como:
 
 Esta análise descritiva fornece uma visão geral do valor de mercado das empresas no dataset. Apesar do tamanho limitado da amostra, podemos observar uma dispersão significativa nos valores, com concentração em alguns players de setores específicos. Para uma análise mais aprofundada, seria necessário considerar um conjunto de dados maior e mais atualizado, além de explorar outras variáveis relevantes, como o desempenho financeiro das empresas.
 
+## Segunda Entrada:
+
+Me faça um grafico de barras interativo e colorido em python com esses dados, utilizando plotly.graph_objs,sem comentarios.
+
+## Saída:
+
