@@ -39,8 +39,8 @@ O dataset fornecido apresenta o valor de mercado (em bilhões de dólares) de 10
 
 **Medidas de Dispersão:**
 
-- **Amplitude:** A amplitude é a diferença entre o maior e o menor valor de mercado, que neste caso é **$70 bilhões** ($90 bilhões - $20 bilhões). Isso mostra a variação total no conjunto de dados.
-- **Desvio Padrão:** O desvio padrão é uma medida de quanto os valores se desviam da média. Neste caso, o desvio padrão é de aproximadamente **$23.5 bilhões**. Isso indica uma dispersão significativa nos valores de mercado das empresas.
+- **Amplitude:** A amplitude é a diferença entre o maior e o menor valor de mercado, que neste caso é **$75 bilhões** ($90 bilhões - $15 bilhões). Isso mostra a variação total no conjunto de dados.
+- **Desvio Padrão:** O desvio padrão é uma medida de quanto os valores se desviam da média. Neste caso, o desvio padrão é de aproximadamente **$23.55 bilhões**. Isso indica uma dispersão significativa nos valores de mercado das empresas.
 
 **Outras Observações:**
 
