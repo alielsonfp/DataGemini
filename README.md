@@ -66,7 +66,7 @@ Esta análise descritiva fornece uma visão geral do valor de mercado das empres
 
 ## Segunda Entrada:
 
-Me faça um grafico de barras interativo e colorido em python com esses dados, utilizando plotly.graph_objs,sem comentarios.
+Gerar grafico de barras interativo e colorido em python com esses dados, utilizando plotly.graph_objs,sem comentarios.
 
 ## Saída:
 
@@ -74,16 +74,14 @@ Me faça um grafico de barras interativo e colorido em python com esses dados, u
 
 ## Terceira Entrada:
 
-Me faça um grafico de pizza interativo e colorido em python com esses dados, utilizando plotly.graph_objs,sem comentarios, faça uma legenda.
+Gerar grafico de pizza interativo e colorido em python com esses dados, utilizando plotly.graph_objs,sem comentarios, faça uma legenda.
 
 ## Saída:
 ![GRAFICO2](https://github.com/alielsonfp/DataGemini/blob/main/assets/Grafico%202.png).
 
 ### Conclusão
 
-Esta é apenas a primeira versão do projeto, destinada a demonstrar a capacidade de utilizar a função exec() com a capacidade generativa de código do GEMINI. As possibilidades são infinitas em todas as áreas e estou animado para implementar uma interface para os usuários em versões futuras. Por enquanto, esta é uma versão inicial com apenas o código puro para fins de teste. Agradeço por ler até aqui e não hesite em me seguir ou entrar em contato para esclarecer qualquer dúvida!
-
-Por favor, note que é necessário incluir a solicitação para gerar os gráficos sem comentários nos inputs, pois isso pode causar problemas na execução da função. Até o momento, não consegui automatizar para que a IA nunca gere comentários, mesmo utilizando few shots de exemplo.
+Esta é apenas a primeira versão do projeto, destinada a demonstrar a capacidade de utilizar a função exec() com a capacidade generativa de código do GEMINI. As possibilidades são infinitas em todas as áreas e estou animado para implementar uma interface para os usuários em versões futuras. Por enquanto, esta é uma versão inicial. Agradeço por ler até aqui e não hesite em me seguir ou entrar em contato para esclarecer qualquer dúvida!
 
 ### Contato
 
