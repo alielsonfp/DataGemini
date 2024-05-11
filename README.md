@@ -66,7 +66,7 @@ Esta análise descritiva fornece uma visão geral do valor de mercado das empres
 
 ## Segunda Entrada:
 
-Gerar grafico de barras interativo e colorido em python com esses dados, utilizando plotly.graph_objs,sem comentarios.
+Gerar grafico de barras interativo e colorido em python com o data set
 
 ## Saída:
 
@@ -74,7 +74,7 @@ Gerar grafico de barras interativo e colorido em python com esses dados, utiliza
 
 ## Terceira Entrada:
 
-Gerar grafico de pizza interativo e colorido em python com esses dados, utilizando plotly.graph_objs,sem comentarios, faça uma legenda.
+Gerar grafico de pizza interativo e colorido em python com o data set
 
 ## Saída:
 ![GRAFICO2](https://github.com/alielsonfp/DataGemini/blob/main/assets/Grafico%202.png).
