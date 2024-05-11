@@ -74,7 +74,7 @@ Gerar grafico de barras interativo e colorido em python com o data set
 
 ## Terceira Entrada:
 
-Gerar grafico de pizza interativo e colorido em python com o data set
+Gerar grafico de pizza interativo, com legenda e colorido em python com o data set
 
 ## Saída:
 ![GRAFICO2](https://github.com/alielsonfp/DataGemini/blob/main/assets/Grafico%202.png).
