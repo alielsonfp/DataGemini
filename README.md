@@ -1,6 +1,6 @@
 ![Mind Journey](https://github.com/alielsonfp/DataGemini/blob/main/assets/Capa.png)
 
-# DataGemini Projeto Imerssão Alura
+# DataGemini Projeto Imersão Alura
 
 ## Introdução
 O DataGemini é uma ferramenta poderosa que combina análise de dados, inteligência artificial e visualização interativa para oferecer uma experiência única na exploração de conjuntos de dados. Utilizando a tecnologia avançada do Google Gemini, este projeto permite aos usuários importar arquivos CSV, fazer perguntas sobre o documento e gerar gráficos dinâmicos e interativos diretamente a partir dos dados fornecidos.
